@@ -21,3 +21,5 @@ Detect Faces with Raw image data:
 More Documentation refer to http://www.skybiometry.com/Documentation.
 
 Author: Roc Yu (rociiu.yu@gmail.com)
+
+Teast change
